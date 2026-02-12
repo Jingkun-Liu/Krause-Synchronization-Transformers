@@ -5,7 +5,7 @@ This repository contains the implementation for the paper Krause Synchronization
   <div class="container is-max-desktop">
     <div class="hero-body">
       <div class="has-text-centered">
-        <img src="images/figure1.svg" 
+        <img src="images/figure1.png" 
              alt="Description of the new attention mechanism" 
              style="width: 80%; height: auto; display: inline-block;"> 
              </div>
@@ -32,7 +32,7 @@ This repository contains the implementation for the paper Krause Synchronization
       <div class="item" style="max-width: 850px; margin: 0 auto;">
         <h2 class="title is-2.5 has-text-left">Alleviating Attention Sinks in Krause-LLMs</h2>
         <div class="has-text-centered">
-          <img src="images/attention_sink_llama3.svg" alt="Second research result visualization" loading="lazy" style="max-width: 100%; height: auto; display: block;"/>
+          <img src="images/attention_sink_llama3.png" alt="Second research result visualization" loading="lazy" style="max-width: 100%; height: auto; display: block;"/>
         </div>
         </h2>
       </div>
@@ -46,13 +46,13 @@ This repository contains the implementation for the paper Krause Synchronization
       <div class="item" style="max-width: 850px; margin: 0 auto;">        
         <h2 class="title is-2.5 has-text-left">Attention Heatmaps in Vision Transformers</h2>        
         <div class="has-text-centered">
-          <img src="images/imagenet_heatmap_main.svg" 
+          <img src="images/imagenet_heatmap_main.png" 
                alt="Attention Heatmaps" 
                loading="lazy" 
                style="max-width: 100%; height: auto; display: block;"/>
         </div>
         <div class="has-text-centered">
-          <img src="images/attention_evolution_map.svg" 
+          <img src="images/attention_evolution_map.png" 
                alt="Attention Evolution" 
                loading="lazy" 
                style="max-width: 100%; height: auto; display: block;"/>
@@ -70,7 +70,7 @@ This repository contains the implementation for the paper Krause Synchronization
         <div class="columns is-vcentered is-variable is-5">
           <div class="column">
             <div class="has-text-centered">
-              <img src="images/completion_mnist.svg" 
+              <img src="images/completion_mnist.png" 
                    alt="Attention Heatmaps" 
                    loading="lazy" 
                    style="width: 100%; height: auto; display: block;"/>
@@ -78,7 +78,7 @@ This repository contains the implementation for the paper Krause Synchronization
           </div>
           <div class="column">
             <div class="has-text-centered">
-              <img src="images/completion_cifar10.svg" 
+              <img src="images/completion_cifar10.png" 
                    alt="Attention Evolution Across Layers" 
                    loading="lazy" 
                    style="width: 100%; height: auto; display: block;"/>
