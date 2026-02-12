@@ -139,6 +139,10 @@ WEIGHT_DECAY=0.05
 BATCH_SIZE=512
 NPROC_PER_NODE=2
 
+FILE_SUFFIX="topk8-16_s${SIGMA}_d${DROPOUT}_w${WEIGHT_DECAY}_batchsize${BATCH_SIZE}"
+LOG_FILE="log_kvits16_ImageNet_lr5e-4_${FILE_SUFFIX}.out"
+SAVE_PATH="analysis_kvits16_ImageNet_lr5e-4_${FILE_SUFFIX}.png"
+
 # 2. Torchrun Command
 CUDA_VISIBLE_DEVICES=6,7 torchrun --nproc_per_node=2 --master_port=28888 kvit_b_16_main.py \
     --top_k 8 \
