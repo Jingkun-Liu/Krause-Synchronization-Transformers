@@ -51,8 +51,6 @@ This repository contains the implementation for the paper Krause Synchronization
                loading="lazy" 
                style="max-width: 100%; height: auto; display: block;"/>
         </div>
-        <strong>Krause Attention</strong> yields more diverse attention heads.
-        </h2>
         <div class="has-text-centered">
           <img src="images/attention_evolution_map.svg" 
                alt="Attention Evolution" 
@@ -91,4 +89,6 @@ This repository contains the implementation for the paper Krause Synchronization
     </div>
   </div>
 </section>
+
+
 
