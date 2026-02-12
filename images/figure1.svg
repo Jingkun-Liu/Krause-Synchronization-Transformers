@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 727.81 528.95">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3, .st4, .st6, .st10, .st14, .st15, .st18, .st19 {
+        fill: none;
+      }
+
+      .st0, .st13 {
+        stroke: #a6b8c6;
+      }
+
+      .st22 {
+        fill: #bdb7cd;
+      }
+
+      .st23 {
+        fill: #3c4174;
+      }
+
+      .st1 {
+        fill: #a88bbf;
+      }
+
+      .st1, .st12, .st14 {
+        stroke: #a287b7;
+      }
+
+      .st2 {
+        fill: #d7dfef;
+        stroke: #d7dfef;
+      }
+
+      .st3 {
+        stroke-dasharray: 5.02 5.02;
+      }
+
+      .st3, .st6, .st18, .st19 {
+        stroke-width: 2px;
+      }
+
+      .st3, .st18 {
+        stroke: #3c4174;
+      }
+
+      .st24 {
+        fill: #8e86ab;
+      }
+
+      .st25 {
+        fill: #eef7fd;
+      }
+
+      .st4 {
+        stroke: #307dae;
+      }
+
+      .st26 {
+        font-family: Arial-ItalicMT, Arial;
+        font-size: 21.07px;
+        font-style: italic;
+      }
+
+      .st26, .st27 {
+        fill: #231815;
+      }
+
+      .st5 {
+        fill: #41bddc;
+        stroke: #41bddc;
+      }
+
+      .st6 {
+        stroke: #393f70;
+      }
+
+      .st7, .st11 {
+        stroke: #3083b9;
+      }
+
+      .st7, .st21 {
+        fill: #2f8ac6;
+      }
+
+      .st27 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 22px;
+        font-weight: 700;
+      }
+
+      .st8 {
+        fill: #0f5182;
+        stroke: #0f5182;
+      }
+
+      .st9 {
+        fill: #d9e3f3;
+        stroke: #d9e3f3;
+      }
+
+      .st10, .st20 {
+        stroke: #0e4e7c;
+      }
+
+      .st11 {
+        fill: #3083b9;
+      }
+
+      .st12 {
+        fill: #a287b7;
+      }
+
+      .st13 {
+        fill: #a6b8c6;
+      }
+
+      .st15, .st16 {
+        stroke: #44b3cf;
+      }
+
+      .st28 {
+        fill: #41457e;
+      }
+
+      .st16 {
+        fill: #44b3cf;
+      }
+
+      .st17 {
+        fill: #d8e1f1;
+        stroke: #d8e1f1;
+      }
+
+      .st19 {
+        stroke: #41457e;
+      }
+
+      .st20 {
+        fill: #0e4e7c;
+      }
+
+      .st21 {
+        stroke: #2f8ac6;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st25" x="468.65" y="286.02" width="248.94" height="232.83" rx="12" ry="12"/>
+    <rect class="st3" x="468.65" y="286.02" width="248.94" height="232.83" rx="12" ry="12"/>
+  </g>
+  <g>
+    <rect class="st25" x="10.18" y="7.92" width="248.94" height="232.83" rx="12" ry="12"/>
+    <rect class="st3" x="10.18" y="7.92" width="248.94" height="232.83" rx="12" ry="12"/>
+  </g>
+  <ellipse class="st9" cx="42.57" cy="70.83" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="230.74" cy="176.63" rx="9.45" ry="9.21"/>
+  <ellipse class="st2" cx="118" cy="36.22" rx="9.45" ry="9.21"/>
+  <ellipse class="st2" cx="156.99" cy="36.22" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="156.99" cy="177.03" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="193.87" cy="211.33" rx="9.45" ry="9.21"/>
+  <ellipse class="st2" cx="118" cy="211.33" rx="9.45" ry="9.21"/>
+  <ellipse class="st9" cx="80.3" cy="141.93" rx="9.45" ry="9.21"/>
+  <ellipse class="st9" cx="118" cy="106.38" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="80.3" cy="211.33" rx="9.45" ry="9.21"/>
+  <ellipse class="st2" cx="193.34" cy="106.38" rx="9.45" ry="9.21"/>
+  <ellipse class="st9" cx="80.3" cy="36.22" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="42.57" cy="176.63" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="230.74" cy="70.83" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="230.74" cy="36.22" rx="9.45" ry="9.21"/>
+  <ellipse class="st17" cx="230.74" cy="141.93" rx="9.45" ry="9.21"/>
+  <polygon class="st7" points="80.3 61.04 89.43 77.26 71.17 77.26 80.3 61.04"/>
+  <polygon class="st12" points="193.25 62.04 202.38 78.26 184.11 78.26 193.25 62.04"/>
+  <polygon class="st20" points="80.3 166.81 89.43 183.04 71.17 183.04 80.3 166.81"/>
+  <g>
+    <line class="st19" x1="44.61" y1="38.85" x2="70.76" y2="59.59"/>
+    <g>
+      <polygon class="st28" points="64.99 60.53 70.35 59.26 70.46 53.63 75.84 63.61 64.99 60.53"/>
+      <polygon class="st22" points="66.41 60.61 74.98 62.94 70.82 59.63 66.41 60.61"/>
+      <polygon class="st24" points="70.77 55.12 74.98 62.94 70.82 59.63 70.77 55.12"/>
+    </g>
+  </g>
+  <polygon class="st16" points="193.25 167.81 202.38 184.04 184.11 184.04 193.25 167.81"/>
+  <ellipse class="st21" cx="42.57" cy="36.22" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="46.9" y1="103.6" x2="67.51" y2="84.3"/>
+    <g>
+      <polygon class="st28" points="67.6 90.14 67.13 84.66 61.58 83.71 72.24 79.87 67.6 90.14"/>
+      <polygon class="st22" points="67.89 88.75 71.45 80.61 67.57 84.25 67.89 88.75"/>
+      <polygon class="st24" points="63.09 83.63 71.45 80.61 67.57 84.25 63.09 83.63"/>
+    </g>
+  </g>
+  <ellipse class="st21" cx="42.57" cy="106.38" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="118" y1="70.41" x2="98.05" y2="70.41"/>
+    <g>
+      <polygon class="st28" points="101.97 66.09 98.57 70.41 101.97 74.89 91.56 70.41 101.97 66.09"/>
+      <polygon class="st22" points="100.82 66.91 92.65 70.41 97.97 70.41 100.82 66.91"/>
+      <polygon class="st24" points="100.82 73.92 92.65 70.41 97.97 70.41 100.82 73.92"/>
+    </g>
+  </g>
+  <ellipse class="st21" cx="118" cy="70.41" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="80.3" y1="103.38" x2="80.3" y2="87.06"/>
+    <g>
+      <polygon class="st28" points="84.62 90.99 80.3 87.58 75.82 90.99 80.3 80.58 84.62 90.99"/>
+      <polygon class="st22" points="83.8 89.83 80.3 81.66 80.3 86.98 83.8 89.83"/>
+      <polygon class="st24" points="76.79 89.83 80.3 81.66 80.3 86.98 76.79 89.83"/>
+    </g>
+  </g>
+  <ellipse class="st11" cx="80.3" cy="106.38" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="157.96" y1="103.84" x2="180.78" y2="84.26"/>
+    <g>
+      <polygon class="st28" points="180.62 90.1 180.39 84.6 174.88 83.42 185.7 80.04 180.62 90.1"/>
+      <polygon class="st22" points="180.96 88.72 184.87 80.74 180.84 84.21 180.96 88.72"/>
+      <polygon class="st24" points="176.39 83.4 184.87 80.74 180.84 84.21 176.39 83.4"/>
+    </g>
+  </g>
+  <ellipse class="st12" cx="156.99" cy="106.38" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="193.25" y1="30.77" x2="193.25" y2="53.61"/>
+    <g>
+      <polygon class="st28" points="188.92 49.68 193.25 53.09 197.73 49.68 193.25 60.1 188.92 49.68"/>
+      <polygon class="st22" points="189.74 50.84 193.25 59.01 193.25 53.69 189.74 50.84"/>
+      <polygon class="st24" points="196.75 50.84 193.25 59.01 193.25 53.69 196.75 50.84"/>
+    </g>
+  </g>
+  <ellipse class="st1" cx="193.34" cy="36.22" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="160.35" y1="70.83" x2="177.26" y2="70.53"/>
+    <g>
+      <polygon class="st28" points="173.4 74.92 176.73 70.54 173.25 66.12 183.74 70.41 173.4 74.92"/>
+      <polygon class="st22" points="174.55 74.08 182.65 70.43 177.33 70.53 174.55 74.08"/>
+      <polygon class="st24" points="174.42 67.07 182.65 70.43 177.33 70.53 174.42 67.07"/>
+    </g>
+  </g>
+  <ellipse class="st12" cx="156.99" cy="70.83" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="229.74" y1="106.12" x2="206.23" y2="85.34"/>
+    <g>
+      <polygon class="st28" points="212.04 84.7 206.62 85.69 206.21 91.3 201.38 81.05 212.04 84.7"/>
+      <polygon class="st22" points="210.63 84.55 202.19 81.77 206.18 85.29 210.63 84.55"/>
+      <polygon class="st24" points="205.99 89.8 202.19 81.77 206.18 85.29 205.99 89.8"/>
+    </g>
+  </g>
+  <ellipse class="st12" cx="230.74" cy="106.38" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="48.7" y1="147.76" x2="70.45" y2="166.73"/>
+    <g>
+      <polygon class="st28" points="64.64 167.41 70.05 166.39 70.43 160.77 75.33 170.99 64.64 167.41"/>
+      <polygon class="st22" points="66.05 167.55 74.51 170.27 70.5 166.78 66.05 167.55"/>
+      <polygon class="st24" points="70.66 162.26 74.51 170.27 70.5 166.78 70.66 162.26"/>
+    </g>
+  </g>
+  <ellipse class="st8" cx="42.57" cy="141.93" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="118" y1="143.01" x2="90.31" y2="163.92"/>
+    <g>
+      <polygon class="st28" points="90.84 158.1 90.72 163.6 96.14 165.12 85.13 167.82 90.84 158.1"/>
+      <polygon class="st22" points="90.41 159.45 86 167.17 90.25 163.96 90.41 159.45"/>
+      <polygon class="st24" points="94.63 165.05 86 167.17 90.25 163.96 94.63 165.05"/>
+    </g>
+  </g>
+  <ellipse class="st20" cx="118" cy="141.93" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="42.57" y1="211.5" x2="69.8" y2="189.18"/>
+    <g>
+      <polygon class="st28" points="69.51 195.01 69.4 189.51 63.92 188.21 74.81 185.07 69.51 195.01"/>
+      <polygon class="st22" points="69.88 193.65 73.97 185.76 69.86 189.13 69.88 193.65"/>
+      <polygon class="st24" points="65.43 188.22 73.97 185.76 69.86 189.13 65.43 188.22"/>
+    </g>
+  </g>
+  <ellipse class="st20" cx="42.57" cy="211.33" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="118" y1="176.67" x2="97.09" y2="176.95"/>
+    <g>
+      <polygon class="st28" points="100.96 172.57 97.61 176.94 101.08 181.37 90.61 177.03 100.96 172.57"/>
+      <polygon class="st22" points="99.81 173.4 91.7 177.02 97.01 176.95 99.81 173.4"/>
+      <polygon class="st24" points="99.91 180.42 91.7 177.02 97.01 176.95 99.91 180.42"/>
+    </g>
+  </g>
+  <ellipse class="st8" cx="118" cy="176.67" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="156.22" y1="143.03" x2="184.86" y2="165.75"/>
+    <g>
+      <polygon class="st28" points="179.09 166.7 184.45 165.43 184.56 159.8 189.94 169.78 179.09 166.7"/>
+      <polygon class="st22" points="180.51 166.77 189.08 169.1 184.92 165.8 180.51 166.77"/>
+      <polygon class="st24" points="184.87 161.28 189.08 169.1 184.92 165.8 184.87 161.28"/>
+    </g>
+  </g>
+  <ellipse class="st5" cx="156.99" cy="141.93" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="193.57" y1="136.48" x2="193.57" y2="159.32"/>
+    <g>
+      <polygon class="st28" points="189.25 155.4 193.57 158.8 198.05 155.4 193.57 165.81 189.25 155.4"/>
+      <polygon class="st22" points="190.07 156.55 193.57 164.72 193.57 159.4 190.07 156.55"/>
+      <polygon class="st24" points="197.08 156.55 193.57 164.72 193.57 159.4 197.08 156.55"/>
+    </g>
+  </g>
+  <ellipse class="st5" cx="193.34" cy="141.93" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="231.94" y1="212.05" x2="207.65" y2="190.58"/>
+    <g>
+      <polygon class="st28" points="213.46 189.94 208.04 190.92 207.63 196.54 202.79 186.29 213.46 189.94"/>
+      <polygon class="st22" points="212.05 189.79 203.61 187.01 207.59 190.53 212.05 189.79"/>
+      <polygon class="st24" points="207.4 195.04 203.61 187.01 207.59 190.53 207.4 195.04"/>
+    </g>
+  </g>
+  <ellipse class="st5" cx="230.74" cy="211.33" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st19" x1="156.31" y1="211.19" x2="180.69" y2="191.2"/>
+    <g>
+      <polygon class="st28" points="180.39 197.04 180.28 191.53 174.81 190.23 185.7 187.09 180.39 197.04"/>
+      <polygon class="st22" points="180.77 195.67 184.86 187.78 180.75 191.15 180.77 195.67"/>
+      <polygon class="st24" points="176.32 190.24 184.86 187.78 180.75 191.15 176.32 190.24"/>
+    </g>
+  </g>
+  <ellipse class="st5" cx="156.99" cy="211.33" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st18" x1="283.11" y1="109.88" x2="428.78" y2="109.88"/>
+    <polygon class="st23" points="442.9 109.88 423 118.01 427.72 109.88 423 101.75 442.9 109.88"/>
+  </g>
+  <text class="st26" transform="translate(296.42 94.98) scale(.95 1)"><tspan x="0" y="0">Multi-Cluster</tspan></text>
+  <g>
+    <rect class="st25" x="468.65" y="7.92" width="248.94" height="232.83" rx="12" ry="12"/>
+    <rect class="st3" x="468.65" y="7.92" width="248.94" height="232.83" rx="12" ry="12"/>
+  </g>
+  <line class="st19" x1="535.44" y1="47.47" x2="535.44" y2="76.79"/>
+  <ellipse class="st21" cx="535.69" cy="52.92" rx="9.45" ry="9.21"/>
+  <line class="st19" x1="535.43" y1="79.58" x2="535.43" y2="101.27"/>
+  <ellipse class="st11" cx="535.44" cy="103.71" rx="9.45" ry="9.21"/>
+  <line class="st19" x1="553.58" y1="78.62" x2="507.2" y2="78.62"/>
+  <ellipse class="st21" cx="561.79" cy="78.62" rx="9.45" ry="9.21"/>
+  <ellipse class="st21" cx="509.57" cy="78.62" rx="9.45" ry="9.21"/>
+  <g id="a7FNJt.tif">
+    <image id="Layer_0" width="62" height="63" transform="translate(485.26 19.66) scale(.4 .37)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA4CAYAAAClmEtZAAAACXBIWXMAABuHAAAbhwHouLjtAAAFH0lEQVRoge2bW4hVVRjHf3P6j7PSbt5K1BgLC02wLJWS7hRBDxbS1QeNhLCih4Qy0oegqBR6Ka0MgsRAjaKsByGojOyi5UNFJF1EvESZRVTamvEbp4e1j545s/ee2Wfvc8546gebGdblv75v1tprr/WtNW3UASddBCwE5gNnZqy+xpstLt6qvrQVJeSkNuBmYDlwcU65q73Zh/mtSkZ5KjtpPPAcMC8muxvYDeyKnj1AOzADuAk4KUX6TmBoOu6kBcCzwOlVWduAlcAmb9aTUPcCYCswMkH+p1rtqhtO6nDSS07qrXo2O+nKDDr3xmiUnxvr6UNmnDTWSdurjDzqpEdq0Lo0xfGsE2JmBj3UndQJvAucX5HsgYXe7LUa2h6dkP6lNztQg14mBuW4kyYQJpvOiuR/gOu92cc1tp00879Yo16xOOk0J30dMxwX5NT9KkbzTyedUpTtuXDShhgDV+fUnJnwbufSLQwnLYox7jMntefUjfsqdEfzSHNx0lQnHYqZwS/JqTveST7G8ReKsn0wlBKMawc2AsOrstZ7sx0521wCdFSldQFP5tTNh5NGO+n3mB5ZWYD2yzG6bzhpWBG25zVuVYxxfzvpjJy67dF7XNY8GK3eCtsoZaHPd9xJ5wFxW8LXvdkfOdsywobmVMJ6foM3O5RTsxictDrhM3NVs20rmmPDzEkjgb3AiKoyu4DJ3qy3kYbVm8pZ/R76Ow3wSqs5DX17fBdwTkyZTm+2p3EmNYYShCUk8U7vbEWn4fhQvzUh/6NGGdJoyo7fkpDfuo47aRJwbkJ+6zoOLEvIe8eb7W6gLblwIRb4jJN+jeIHLq28SI6E/Fy8efXBSdOBdcD0KGkMIbS1P6mOgCkJeb8Ual2BROv7icBcQgx+Dv0PR1L3AKL/1rPMkHI82q9PAUYBk0m2e1CkBRvrHunMyByOD+VKfiScykzKIpbmeHcWoQbwHvAd8BdhNH4L7PBm3zhpBfBwFrE0x5OOd5qCN1tSpF5s6CliVJENDTXSHD+rYVY0gTTHZzfMiiaQ9o7PdlK7NztSTwOicNcMYJ83+6SebVWS1uMnA2vq0aiTlkcx+l7CTL0RuK0ebSVRIv0Qfn7RR7ZOuht4nL4rqz3AY0W2MxAlQsQziQ5gaVGNRWvqVVXJXcD8AqK4mSgB7w9Q5kEnXZu3oSiY+SbhFSrTA9yR46i5ZkrAq8DhlDJtwLpo314TTuoA1tN3398DLPJmb9Wqm4dSNMQ2DFBuPPCpC/fXMuGkccAHwA0VyYeBed5sbVa9oijP6k+R3usA44CtTlrmpAF3Rk4qOWku8AVwWUXWAeAab/Z2LQYXRQnAm/0APDqI8iOAJ4DvnbTCSZdXnpU7abiTpjnpPmAnsAmYUFF/M3ChN9temAc1UhlXLxEmn7kZNXqB36KfY4gPABwGHvJmz9doZyoJu7Ozvdm+pDrHFjDe7Cgh2pr1BlMbweGx9He6B1gLTKuX07XSZ+XmzY54s9u9WTm0swY4OEito8AW4AFggjdr82byZncNxaBl4lrdm+0HFjvpfuAKYBbhjzGREPY5SDhk3EtYeX3eiPtpRTHgPbfoPuqW6GkZ0jYpLc3/jv/XaBXH4y4cpl5CPOEdj05VZsZkpYbOmnLVqhaivfwsgs3thE9qJ3AdMDWmShdhc7SNsLLsJty8Alh7Ijm+FHi6ILkRuf4Zpwn0EO7JdxF6sPwcIfRmD2FEiDAqhkU/O6LfOwiLre5/Afplg1WsjNwFAAAAAElFTkSuQmCC"/>
+  </g>
+  <line class="st19" x1="535.44" y1="159.12" x2="535.45" y2="207.25"/>
+  <ellipse class="st8" cx="535.44" cy="214.33" rx="9.45" ry="9.21"/>
+  <ellipse class="st20" cx="535.44" cy="159.12" rx="9.45" ry="9.21"/>
+  <line class="st19" x1="558.64" y1="186.78" x2="512.25" y2="186.78"/>
+  <ellipse class="st20" cx="561.79" cy="186.73" rx="9.45" ry="9.21"/>
+  <ellipse class="st8" cx="509.57" cy="185.24" rx="9.45" ry="9.21"/>
+  <g id="_x31_0lImT.tif">
+    <image id="Layer_01" data-name="Layer_0" width="63" height="63" transform="translate(485.27 124.89) scale(.4 .37)" xlink:href="data:image/png;base64,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"/>
+  </g>
+  <line class="st19" x1="672.2" y1="78.31" x2="625.82" y2="78.31"/>
+  <line class="st19" x1="649.18" y1="57.26" x2="649.16" y2="99.59"/>
+  <ellipse class="st12" cx="678.5" cy="78.62" rx="9.45" ry="9.21"/>
+  <ellipse class="st12" cx="649.01" cy="51.91" rx="9.45" ry="9.21"/>
+  <ellipse class="st12" cx="649.01" cy="104.71" rx="9.45" ry="9.21"/>
+  <ellipse class="st12" cx="619.81" cy="78.62" rx="9.45" ry="9.21"/>
+  <g id="_x37_0GF4N.tif">
+    <image id="Layer_02" data-name="Layer_0" width="64" height="64" transform="translate(597.71 19.66) scale(.39 .36)" xlink:href="data:image/png;base64,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"/>
+  </g>
+  <line class="st19" x1="648.48" y1="161.43" x2="648.49" y2="209.55"/>
+  <line class="st19" x1="671.68" y1="187.12" x2="625.3" y2="187.12"/>
+  <ellipse class="st5" cx="677.5" cy="186.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st5" cx="648.49" cy="214.33" rx="9.45" ry="9.21"/>
+  <ellipse class="st5" cx="619.23" cy="187.05" rx="9.45" ry="9.21"/>
+  <ellipse class="st5" cx="648.17" cy="159.12" rx="9.45" ry="9.21"/>
+  <g id="O3ZBSY.tif">
+    <image id="Layer_03" data-name="Layer_0" width="64" height="63" transform="translate(597.71 124.89) scale(.39 .37)" xlink:href="data:image/png;base64,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"/>
+  </g>
+  <text/>
+  <polygon class="st7" points="535.45 67.52 544.58 83.75 526.32 83.75 535.45 67.52"/>
+  <polygon class="st12" points="649.18 67.52 658.31 83.75 640.04 83.75 649.18 67.52"/>
+  <polygon class="st16" points="648.48 176.17 657.62 192.4 639.35 192.4 648.48 176.17"/>
+  <polygon class="st20" points="535.45 176.17 544.58 192.4 526.32 192.4 535.45 176.17"/>
+  <text class="st26" transform="translate(282.05 141.93) scale(.95 1)"><tspan x="0" y="0">Synchronization</tspan></text>
+  <g>
+    <rect class="st25" x="10.18" y="283.94" width="248.94" height="232.83" rx="12" ry="12"/>
+    <rect class="st3" x="10.18" y="283.94" width="248.94" height="232.83" rx="12" ry="12"/>
+  </g>
+  <ellipse class="st13" cx="117.12" cy="315.07" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="156.11" cy="315.07" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="156.11" cy="455.89" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="117.12" cy="490.18" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="79.42" cy="420.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="117.12" cy="385.23" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="192.46" cy="385.23" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="228.86" cy="420.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="41.69" cy="385.23" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="117.12" cy="349.27" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="79.42" cy="385.23" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="156.11" cy="385.23" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="156.11" cy="349.68" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="228.86" cy="385.23" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="41.69" cy="420.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="117.12" cy="420.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="117.12" cy="455.52" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="156.11" cy="420.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="192.46" cy="420.79" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="156.11" cy="490.18" rx="9.45" ry="9.21"/>
+  <g>
+    <line class="st18" x1="282.23" y1="388.74" x2="427.89" y2="388.74"/>
+    <polygon class="st23" points="442.01 388.74 422.12 396.87 426.84 388.74 422.12 380.61 442.01 388.74"/>
+  </g>
+  <text class="st26" transform="translate(323.22 376.02) scale(.95 1)"><tspan x="0" y="0">Global</tspan></text>
+  <text/>
+  <text class="st26" transform="translate(281.17 420.79) scale(.95 1)"><tspan x="0" y="0">Synchronization</tspan></text>
+  <line class="st6" x1="-.13" y1="261.02" x2="727.81" y2="260.99"/>
+  <g id="oXhh1L.tif">
+    <image id="Layer_04" data-name="Layer_0" width="64" height="64" transform="translate(487.66 311.17) scale(.39 .36)" xlink:href="data:image/png;base64,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"/>
+  </g>
+  <circle class="st0" cx="596.71" cy="401.05" r="73.29"/>
+  <line class="st19" x1="596.71" y1="349.59" x2="596.73" y2="462.2"/>
+  <line class="st19" x1="537.44" y1="402.43" x2="655.64" y2="402.35"/>
+  <line class="st19" x1="567.24" y1="373.7" x2="567.25" y2="433.89"/>
+  <line class="st19" x1="626.17" y1="373.7" x2="626.18" y2="433.89"/>
+  <line class="st19" x1="627.3" y1="373.69" x2="567.25" y2="373.66"/>
+  <line class="st19" x1="627.3" y1="431.06" x2="567.25" y2="431.02"/>
+  <ellipse class="st13" cx="655.64" cy="402.35" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="626.17" cy="431.04" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="626.17" cy="402.35" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="626.17" cy="373.66" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="596.71" cy="459.73" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="596.71" cy="431.04" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="596.71" cy="402.35" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="596.71" cy="373.66" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="596.71" cy="344.96" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="567.25" cy="431.04" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="567.25" cy="402.35" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="567.25" cy="373.66" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="537.78" cy="402.35" rx="9.45" ry="9.21"/>
+  <circle class="st10" cx="535.37" cy="186.37" r="41.33"/>
+  <circle class="st15" cx="648.17" cy="187.12" r="41.33"/>
+  <circle class="st14" cx="649.17" cy="78.26" r="41.33"/>
+  <circle class="st4" cx="535.69" cy="78.62" r="41.33"/>
+  <g>
+    <line class="st19" x1="42.4" y1="317.54" x2="64.15" y2="336.51"/>
+    <g>
+      <polygon class="st28" points="58.34 337.19 63.75 336.17 64.13 330.55 69.03 340.77 58.34 337.19"/>
+      <polygon class="st22" points="59.76 337.33 68.21 340.06 64.21 336.56 59.76 337.33"/>
+      <polygon class="st24" points="64.36 332.05 68.21 340.06 64.21 336.56 64.36 332.05"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="82.85" y1="352.83" x2="104.6" y2="371.8"/>
+    <g>
+      <polygon class="st28" points="98.8 372.48 104.21 371.46 104.58 365.84 109.49 376.06 98.8 372.48"/>
+      <polygon class="st22" points="100.21 372.62 108.66 375.35 104.66 371.85 100.21 372.62"/>
+      <polygon class="st24" points="104.82 367.34 108.66 375.35 104.66 371.85 104.82 367.34"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="80.3" y1="317.38" x2="102.04" y2="336.35"/>
+    <g>
+      <polygon class="st28" points="96.24 337.03 101.65 336.01 102.03 330.4 106.93 340.61 96.24 337.03"/>
+      <polygon class="st22" points="97.65 337.17 106.11 339.9 102.1 336.4 97.65 337.17"/>
+      <polygon class="st24" points="102.26 331.89 106.11 339.9 102.1 336.4 102.26 331.89"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="45.38" y1="352.83" x2="67.12" y2="371.8"/>
+    <g>
+      <polygon class="st28" points="61.32 372.48 66.73 371.46 67.11 365.84 72.01 376.06 61.32 372.48"/>
+      <polygon class="st22" points="62.73 372.62 71.19 375.35 67.18 371.85 62.73 372.62"/>
+      <polygon class="st24" points="67.34 367.34 71.19 375.35 67.18 371.85 67.34 367.34"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="136.61" y1="323.55" x2="136.61" y2="346.39"/>
+    <g>
+      <polygon class="st28" points="132.29 342.46 136.61 345.87 141.09 342.46 136.61 352.87 132.29 342.46"/>
+      <polygon class="st22" points="133.11 343.62 136.61 351.78 136.61 346.47 133.11 343.62"/>
+      <polygon class="st24" points="140.12 343.62 136.61 351.78 136.61 346.47 140.12 343.62"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="136.61" y1="363.8" x2="136.61" y2="386.64"/>
+    <g>
+      <polygon class="st28" points="132.29 382.71 136.61 386.12 141.09 382.71 136.61 393.12 132.29 382.71"/>
+      <polygon class="st22" points="133.11 383.87 136.61 392.04 136.61 386.72 133.11 383.87"/>
+      <polygon class="st24" points="140.12 383.87 136.61 392.04 136.61 386.72 140.12 383.87"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="136.61" y1="440.9" x2="136.61" y2="418.06"/>
+    <g>
+      <polygon class="st28" points="140.94 421.99 136.61 418.58 132.13 421.99 136.61 411.58 140.94 421.99"/>
+      <polygon class="st22" points="140.12 420.83 136.61 412.66 136.61 417.98 140.12 420.83"/>
+      <polygon class="st24" points="133.11 420.83 136.61 412.66 136.61 417.98 133.11 420.83"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="136.61" y1="482.81" x2="136.61" y2="459.96"/>
+    <g>
+      <polygon class="st28" points="140.94 463.89 136.61 460.49 132.13 463.89 136.61 453.48 140.94 463.89"/>
+      <polygon class="st22" points="140.12 462.74 136.61 454.57 136.61 459.89 140.12 462.74"/>
+      <polygon class="st24" points="133.1 462.74 136.61 454.57 136.61 459.89 133.1 462.74"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="225.85" y1="317.54" x2="206.06" y2="336.46"/>
+    <g>
+      <polygon class="st28" points="205.91 330.62 206.44 336.1 212 336.98 201.38 340.94 205.91 330.62"/>
+      <polygon class="st22" points="205.64 332.01 202.16 340.19 206.01 336.51 205.64 332.01"/>
+      <polygon class="st24" points="210.49 337.08 202.16 340.19 206.01 336.51 210.49 337.08"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="188.05" y1="353.68" x2="168.26" y2="372.6"/>
+    <g>
+      <polygon class="st28" points="168.11 366.75 168.64 372.24 174.2 373.12 163.58 377.08 168.11 366.75"/>
+      <polygon class="st22" points="167.84 368.15 164.37 376.32 168.21 372.65 167.84 368.15"/>
+      <polygon class="st24" points="172.69 373.22 164.37 376.32 168.21 372.65 172.69 373.22"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="190.25" y1="317.54" x2="170.46" y2="336.46"/>
+    <g>
+      <polygon class="st28" points="170.31 330.62 170.84 336.1 176.4 336.98 165.78 340.94 170.31 330.62"/>
+      <polygon class="st22" points="170.04 332.01 166.56 340.19 170.4 336.51 170.04 332.01"/>
+      <polygon class="st24" points="174.89 337.08 166.56 340.19 170.4 336.51 174.89 337.08"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="225.85" y1="352.75" x2="206.06" y2="371.67"/>
+    <g>
+      <polygon class="st28" points="205.91 365.82 206.44 371.31 212 372.19 201.38 376.14 205.91 365.82"/>
+      <polygon class="st22" points="205.64 367.22 202.16 375.39 206.01 371.72 205.64 367.22"/>
+      <polygon class="st24" points="210.49 372.29 202.16 375.39 206.01 371.72 210.49 372.29"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="89.64" y1="403.01" x2="112.48" y2="403.01"/>
+    <g>
+      <polygon class="st28" points="108.56 407.34 111.96 403.01 108.56 398.53 118.97 403.01 108.56 407.34"/>
+      <polygon class="st22" points="109.71 406.51 117.88 403.01 112.56 403.01 109.71 406.51"/>
+      <polygon class="st24" points="109.71 399.5 117.88 403.01 112.56 403.01 109.71 399.5"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="43.35" y1="403.01" x2="66.2" y2="403.01"/>
+    <g>
+      <polygon class="st28" points="62.27 407.34 65.67 403.01 62.27 398.53 72.68 403.01 62.27 407.34"/>
+      <polygon class="st22" points="63.42 406.51 71.59 403.01 66.27 403.01 63.42 406.51"/>
+      <polygon class="st24" points="63.42 399.5 71.59 403.01 66.27 403.01 63.42 399.5"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="184.01" y1="403.01" x2="161.17" y2="403.01"/>
+    <g>
+      <polygon class="st28" points="165.1 398.68 161.69 403.01 165.1 407.49 154.69 403.01 165.1 398.68"/>
+      <polygon class="st22" points="163.94 399.5 155.77 403.01 161.09 403.01 163.94 399.5"/>
+      <polygon class="st24" points="163.94 406.52 155.77 403.01 161.09 403.01 163.94 406.52"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="227.28" y1="402.35" x2="204.43" y2="402.35"/>
+    <g>
+      <polygon class="st28" points="208.36 398.02 204.95 402.35 208.36 406.83 197.95 402.35 208.36 398.02"/>
+      <polygon class="st22" points="207.2 398.84 199.04 402.35 204.36 402.35 207.2 398.84"/>
+      <polygon class="st24" points="207.2 405.86 199.04 402.35 204.36 402.35 207.2 405.86"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="231.13" y1="490.28" x2="206.84" y2="468.8"/>
+    <g>
+      <polygon class="st28" points="212.65 468.16 207.23 469.15 206.82 474.76 201.99 464.51 212.65 468.16"/>
+      <polygon class="st22" points="211.24 468.01 202.8 465.23 206.78 468.75 211.24 468.01"/>
+      <polygon class="st24" points="206.6 473.27 202.8 465.23 206.78 468.75 206.6 473.27"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="194.45" y1="455.72" x2="170.16" y2="434.25"/>
+    <g>
+      <polygon class="st28" points="175.97 433.61 170.55 434.6 170.13 440.21 165.3 429.96 175.97 433.61"/>
+      <polygon class="st22" points="174.55 433.46 166.12 430.68 170.1 434.2 174.55 433.46"/>
+      <polygon class="st24" points="169.91 438.71 166.12 430.68 170.1 434.2 169.91 438.71"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="230.13" y1="455.72" x2="205.84" y2="434.25"/>
+    <g>
+      <polygon class="st28" points="211.65 433.61 206.23 434.6 205.82 440.21 200.99 429.96 211.65 433.61"/>
+      <polygon class="st22" points="210.24 433.46 201.8 430.68 205.78 434.2 210.24 433.46"/>
+      <polygon class="st24" points="205.6 438.71 201.8 430.68 205.78 434.2 205.6 438.71"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="193.79" y1="490.28" x2="169.5" y2="468.8"/>
+    <g>
+      <polygon class="st28" points="175.31 468.16 169.89 469.15 169.47 474.76 164.64 464.51 175.31 468.16"/>
+      <polygon class="st22" points="173.89 468.01 165.46 465.23 169.44 468.75 173.89 468.01"/>
+      <polygon class="st24" points="169.25 473.27 165.46 465.23 169.44 468.75 169.25 473.27"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="79.42" y1="456.48" x2="102.98" y2="434.09"/>
+    <g>
+      <polygon class="st28" points="103.12 439.93 102.61 434.45 97.05 433.55 107.68 429.62 103.12 439.93"/>
+      <polygon class="st22" points="103.39 438.54 106.89 430.37 103.04 434.03 103.39 438.54"/>
+      <polygon class="st24" points="98.56 433.45 106.89 430.37 103.04 434.03 98.56 433.45"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="40.69" y1="489.18" x2="63.34" y2="467.64"/>
+    <g>
+      <polygon class="st28" points="63.47 473.49 62.96 468 57.4 467.1 68.03 463.18 63.47 473.49"/>
+      <polygon class="st22" points="63.74 472.09 67.24 463.93 63.39 467.59 63.74 472.09"/>
+      <polygon class="st24" points="58.91 467.01 67.24 463.93 63.39 467.59 58.91 467.01"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="42.23" y1="456.48" x2="65.8" y2="434.09"/>
+    <g>
+      <polygon class="st28" points="65.93 439.93 65.42 434.45 59.86 433.55 70.5 429.62 65.93 439.93"/>
+      <polygon class="st22" points="66.2 438.54 69.71 430.37 65.85 434.03 66.2 438.54"/>
+      <polygon class="st24" points="61.37 433.45 69.71 430.37 65.85 434.03 61.37 433.45"/>
+    </g>
+  </g>
+  <g>
+    <line class="st19" x1="78.42" y1="490.37" x2="101.98" y2="467.98"/>
+    <g>
+      <polygon class="st28" points="102.12 473.82 101.61 468.34 96.05 467.44 106.68 463.51 102.12 473.82"/>
+      <polygon class="st22" points="102.39 472.43 105.89 464.26 102.04 467.92 102.39 472.43"/>
+      <polygon class="st24" points="97.56 467.34 105.89 464.26 102.04 467.92 97.56 467.34"/>
+    </g>
+  </g>
+  <ellipse class="st13" cx="192.46" cy="315.07" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="228.86" cy="315.07" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="228.86" cy="349.68" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="192.69" cy="350.15" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="228.86" cy="455.48" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="228.86" cy="490.18" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="192.98" cy="455.48" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="192.98" cy="490.18" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="79.42" cy="490.18" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="79.41" cy="456.02" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="41.69" cy="456.48" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="41.69" cy="490.18" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="41.69" cy="349.68" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="79.41" cy="349.68" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="79.42" cy="315.07" rx="9.45" ry="9.21"/>
+  <ellipse class="st13" cx="41.69" cy="315.07" rx="9.45" ry="9.21"/>
+  <text class="st27" transform="translate(277.04 194.45) scale(.95 1)"><tspan x="0" y="0">Krause Attention</tspan></text>
+  <text class="st27" transform="translate(269.71 474.34) scale(.95 1)"><tspan x="0" y="0">Standard Attention</tspan></text>
+</svg>
