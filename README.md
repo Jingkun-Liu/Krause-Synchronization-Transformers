@@ -112,7 +112,7 @@ Krause-Synchronization-Transformers/
     * **LLM Datasets**: Relevant datasets can be found at [https://huggingface.co/datasets/SirNeural/flan_v2/tree/main].
     * **LLMs**: Llama3-8B can be found at [https://huggingface.co/meta-llama/Meta-Llama-3-8B]. Qwen1.5-7B can be found at [https://huggingface.co/Qwen/Qwen1.5-7B].
 ---
-> **Local Dataset Release**
+> **Local Dataset Release**:
 > We have also prepared a set of locally curated datasets optimized for this project, which will be released soon to ensure reproducibility.
 
 ## Model Checkpoints
@@ -124,7 +124,7 @@ We provide run scripts that can be submitted simply using sbatch for every task.
 /Krause-Synchronization-Transformers-main/vision_transformers/imagenet1k/run_kvit.sh
 ```
 > [!IMPORTANT]
-> **Script Customization:**
+> **Script Customization**:
 > Please ensure you modify the script's configuration (such as batch size, learning rate, model implementation path or GPU requirements) before execution.
 >
 > For instance, to run ImageNet-1K with KViT-S-16, the script should be adjusted as shown below:
