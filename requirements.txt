@@ -1,0 +1,12 @@
+datasets==4.4.0
+fvcore==0.1.5.post20221221
+matplotlib==3.10.8
+numpy==2.4.2
+peft==0.18.0
+ptflops==0.7.5
+scikit_learn==1.8.0
+torch==2.9.0
+torchvision==0.24.0
+tqdm==4.67.1
+transformers==4.57.3
+urllib3==2.6.3
