@@ -200,7 +200,7 @@ We provide run scripts that can be submitted simply using sbatch for every task.
 /Krause-Synchronization-Transformers-main/vision_transformers/imagenet1k/run_kvit.sh
 ```
 > [!IMPORTANT]
-> **Script Customization**
+> **Script Customization:**
 > Although we provide templates for various models, they are not designed for every specific parameter scale. **Please ensure you modify the script's configuration** (such as batch size, learning rate, model implementation path or GPU requirements) before execution.
 >
 > For instance, to run **ImageNet-1K** with **KViT-S-16**, the script should be adjusted as shown below:
