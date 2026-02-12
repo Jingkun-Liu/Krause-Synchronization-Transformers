@@ -205,7 +205,7 @@ We provide run scripts that can be submitted simply using sbatch for every task.
 >
 > For instance, to run **ImageNet-1K** with **KViT-S-16**, the script should be adjusted as shown below:
 ```bash
-# Example script content for kvit-s-16
+# Example script
 #!/bin/bash
 
 SIGMAS="4.5"
