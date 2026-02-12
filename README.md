@@ -195,7 +195,7 @@ Krause-Synchronization-Transformers/
 ckpts will be released soon
 
 ## Usage
-We provide run scripts that can be submitted simply using sbatch for every task. For example, to run the ImageNet-1K classification task for kvit-s-16, use the following command:
+We provide run scripts that can be submitted simply using sbatch for every task. For example, to run the ImageNet-1K classification task for KViT-S-16, use the following command:
 ```bash
 /Krause-Synchronization-Transformers-main/vision_transformers/imagenet1k/run_kvit.sh
 ```
@@ -203,7 +203,7 @@ We provide run scripts that can be submitted simply using sbatch for every task.
 > **Script Customization**
 > Although we provide templates for various models, they are not designed for every specific parameter scale. **Please ensure you modify the script's configuration** (such as batch size, learning rate, model implementation path or GPU requirements) before execution.
 >
-> For instance, to run **ImageNet-1K** with **kvit-s-16**, the script should be adjusted as shown below:
+> For instance, to run **ImageNet-1K** with **KViT-S-16**, the script should be adjusted as shown below:
 ```bash
 # Example script content for kvit-s-16
 #!/bin/bash
