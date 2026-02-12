@@ -5,10 +5,10 @@ This repository contains the implementation for the paper Krause Synchronization
   <div class="container is-max-desktop">
     <div class="hero-body">
       <div class="has-text-centered">
-      <img src="images/figure1.svg" 
-           alt="Description of the new attention mechanism" 
-           style="width: 80%; height: auto; display: block; margin: 0 auto;">
-         </h2>
+        <img src="images/figure1.svg" 
+             alt="Description of the new attention mechanism" 
+             style="width: 80%; height: auto; display: inline-block;"> 
+             </div>
     </div>
   </div>
 </section>
