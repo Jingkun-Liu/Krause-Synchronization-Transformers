@@ -4,7 +4,7 @@ This repository contains the implementation for the paper Krause Synchronization
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <img src="images/figure1.pdf" 
+      <img src="images/figure1.svg" 
            alt="Description of the new attention mechanism" 
            style="width: 80%; height: auto; display: block; margin: 0 auto;">
          </h2>
@@ -35,7 +35,7 @@ This repository contains the implementation for the paper Krause Synchronization
       <div class="item" style="max-width: 850px; margin: 0 auto;">
         <h2 class="title is-2.5 has-text-left">Alleviating Attention Sinks in Krause-LLMs</h2>
         <div class="has-text-left">
-          <img src="images/attention_sink_llama3.pdf" alt="Second research result visualization" loading="lazy" style="max-width: 100%; height: auto; display: block;"/>
+          <img src="images/attention_sink_llama3.svg" alt="Second research result visualization" loading="lazy" style="max-width: 100%; height: auto; display: block;"/>
         </div>
         <h2 class="subtitle has-text-centered mt-3">
           Layer dynamics of first-token attentions on <strong>Llama3-8B</strong>.
