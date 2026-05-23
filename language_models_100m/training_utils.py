@@ -221,7 +221,7 @@ def eval_revision_loss_accelerate(
 
 
 def revision_model_subdir(args) -> str:
-    return f"ksmix_sigma_{args.init_sigma:g}"
+    return f"krause_sigma_{args.init_sigma:g}"
 
 
 def find_latest_revision_checkpoint(out_dir: Path, model_tag: str) -> Optional[Tuple[int, Path]]:
