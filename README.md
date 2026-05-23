@@ -105,11 +105,15 @@ Krause-Synchronization-Transformers/
 │       │── evaluation.sh
 │       └── main.py
 ├── language_models_100m/
-│       │── build_fwe10bt.py
-│       │── module.py
-│       │── run_train_100m.sh
-│       │── train_100m.py
-│       └── training_utils.py
+│   ├── train/ 
+│   │   │── module.py
+│   │   │── run_train_100m.sh
+│   │   │── train_100m.py
+│   │   └── training_utils.py
+│   ├── evaluation/
+│   │   │── eval.py
+│   │   └── run_eval.sh
+│   └── build_fwe10bt.py
 └── images/  # images/gifs used in readme and our website
 ```
 
