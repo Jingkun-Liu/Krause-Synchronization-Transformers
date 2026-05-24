@@ -17,7 +17,7 @@ from datasets import Dataset
 from module import build_krause_attention
 from torch.distributed.fsdp.wrap import transformer_auto_wrap_policy
 from torch.utils.data import DataLoader
-from tqdm import tqdm
+import tqdm
 from training_utils import (
     RevisionLMDataCollator,
     compute_revision_lm_loss,
