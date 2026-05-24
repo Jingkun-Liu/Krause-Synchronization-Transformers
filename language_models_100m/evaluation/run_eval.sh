@@ -1,9 +1,5 @@
-export CUDA_VISIBLE_DEVICES="${CUDA_VISIBLE_DEVICES:-4,5,6,7}"
-
-exec torchrun \
-  --nproc_per_node=4 \
-  --master_port=38942 \
-  ./eval.py \
+env CUDA_VISIBLE_DEVICES=0,1,2,3 \
+  torchrun --nproc_per_node=4 --master_port=38942 eval.py \
   --model_path /yourpath/models_100m/krause_sigma_2.5/hf_model-krause \
   --tokenizer_name /yourpath/gpt2 \
   --data_root /yourpath \
