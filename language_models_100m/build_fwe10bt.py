@@ -15,33 +15,22 @@ def _iter_text_rows_shuffled(files: List[Path], rng: random.Random) -> Iterator[
     error_log_path = Path("corrupt_files.log")
     
     for fp in files:
-        try:
-            pf = pq.ParquetFile(fp)
-            for batch in pf.iter_batches(batch_size=65536, columns=["text", "token_count"]):
-                tbl = pa.Table.from_batches([batch])
-                n = tbl.num_rows
-                if n == 0: continue
-                
-                idx = list(range(n))
-                rng.shuffle(idx)
-                text_col = tbl.column("text")
-                tc_col = tbl.column("token_count")
-                
-                for i in idx:
-                    text = text_col[i].as_py()
-                    tc = int(tc_col[i].as_py())
-                    if text and tc > 0:
-                        yield str(text), tc
-                        
-        except Exception as e:
-            error_msg = f"\n[ERROR] File corrupt: {fp}\nReason: {e}\n"
-            print(error_msg)
+        pf = pq.ParquetFile(fp)
+        for batch in pf.iter_batches(batch_size=65536, columns=["text", "token_count"]):
+            tbl = pa.Table.from_batches([batch])
+            n = tbl.num_rows
+            if n == 0: continue
             
-            with open(error_log_path, "a") as f:
-                f.write(f"{fp}\n")
+            idx = list(range(n))
+            rng.shuffle(idx)
+            text_col = tbl.column("text")
+            tc_col = tbl.column("token_count")
             
-            continue
-
+            for i in idx:
+                text = text_col[i].as_py()
+                tc = int(tc_col[i].as_py())
+                if text and tc > 0:
+                    yield str(text), tc
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Build fwe10bt train/val/test parquet from FineWeb sample.")
