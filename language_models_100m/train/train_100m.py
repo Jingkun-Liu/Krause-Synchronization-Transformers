@@ -79,9 +79,9 @@ class ModelConfig:
     resid_dropout: float = 0.0
     emb_dropout: float = 0.0
 
-    window_size: int = 256
-    top_k: int = 192
-    init_sigma: float = 4.0
+    window_size: int = 32
+    top_k: int = 16
+    init_sigma: float = 2.5
     init_standard_weight: float = 0.8
     gradient_checkpointing: bool = True
 
