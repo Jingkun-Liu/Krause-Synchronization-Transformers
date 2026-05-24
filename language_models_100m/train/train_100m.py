@@ -301,14 +301,9 @@ def train_one_model(
         "betas": (0.9, 0.95),
     }
     if use_cuda and not args.no_fused_adamw:
-        try:
-            optimizer = torch.optim.AdamW(model.parameters(), **_adam_kw, fused=True)
-            if int(os.environ.get("LOCAL_RANK", "0")) == 0:
-                logger.info("AdamW fused=True (CUDA)")
-        except (TypeError, RuntimeError) as e:
-            if int(os.environ.get("LOCAL_RANK", "0")) == 0:
-                logger.warning("AdamW fused is unavailable, falling back to the default implementation: %s", e)
-            optimizer = torch.optim.AdamW(model.parameters(), **_adam_kw)
+        optimizer = torch.optim.AdamW(model.parameters(), **_adam_kw, fused=True)
+        if int(os.environ.get("LOCAL_RANK", "0")) == 0:
+            logger.info("AdamW fused=True (CUDA)")
     else:
         optimizer = torch.optim.AdamW(model.parameters(), **_adam_kw)
     scheduler = get_cosine_with_min_lr_schedule_with_warmup(
@@ -551,12 +546,10 @@ def main():
         "--no_gradient_checkpointing",
         action="store_true",
     )
-
     parser.add_argument("--hidden_size", type=int, default=768)
     parser.add_argument("--num_layers", type=int, default=8)
     parser.add_argument("--num_heads", type=int, default=12)
     parser.add_argument("--ffn_hidden_size", type=int, default=2048)
-
     parser.add_argument(
         "--block_size",
         type=int,
@@ -665,7 +658,6 @@ def main():
         tokenizer.pad_token = tokenizer.eos_token
 
     tokenizer.model_max_length = max(args.block_size, 1_000_000)
-
     data_dir = Path(args.data_dir).expanduser().resolve()
     packed_cache_root = (
         Path(args.packed_cache_dir).expanduser().resolve()
