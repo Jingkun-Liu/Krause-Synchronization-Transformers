@@ -4,14 +4,9 @@ import argparse
 import random
 from pathlib import Path
 from typing import Dict, Iterator, List, Tuple
-
 import pyarrow as pa
 import pyarrow.parquet as pq
-
-try:
-    from tqdm import tqdm
-except ImportError:
-    tqdm = None
+import tqdm
 
 def _iter_text_rows_shuffled(files: List[Path], rng: random.Random) -> Iterator[Tuple[str, int]]:
     files = list(files)
