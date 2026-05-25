@@ -577,7 +577,7 @@ def main():
     parser.add_argument(
         "--tokens_per_batch",
         type=int,
-        default=500_000,
+        default=999_424,
     )
     parser.add_argument("--peak_lr", type=float, default=6e-4)
     parser.add_argument(
