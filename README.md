@@ -16,6 +16,36 @@ This repository contains the implementation for the paper "Krause Synchronizatio
   </div>
 </section>
 
+## Synchronization Dynamics
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/krause_attn_notitle_2d.gif" alt="2d krause attention" width="100%">
+      <br>
+      Evolution of tokens under <b>Krause Attention</b> dynamics on the unit circle.
+    </td>
+    <td align="center" width="50%">
+      <img src="images/standard_attn_2d_notitle.gif" alt="2d standard attention" width="100%">
+      <br>
+      Evolution of tokens under <b>standard attention</b> dynamics on the unit circle.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/krause_attn_notitle_3d.gif" alt="3d krause attention" width="100%">
+      <br>
+      Evolution of tokens under <b>Krause Attention</b> dynamics on the unit sphere.
+    </td>
+    <td align="center" width="50%">
+      <img src="images/standard_attn_3d_notitle.gif" alt="3d standard attention" width="100%">
+      <br>
+      Evolution of tokens under <b>standard attention</b> dynamics on the unit sphere.
+    </td>
+  </tr>
+</table>
+
+The animations above demonstrate the difference in token interaction dynamics. We simulate 200 particles on a unit circle and sphere. Initialized with random velocities, these particles evolve according to the two distinct dynamics. The results show that Krause Attention promotes stable multi-cluster synchronization, while standard attention tends to drive particles toward a single consensus, ultimately leading to global synchronization.
+
 ## Installation
 
 To get started with Krause-Synchronization-Transformers, follow these steps:
