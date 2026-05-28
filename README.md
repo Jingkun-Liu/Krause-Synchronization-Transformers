@@ -44,7 +44,7 @@ This repository contains the implementation for the paper "Krause Synchronizatio
   </tr>
 </table>
 
-The animations above demonstrate the difference in token interaction dynamics. We simulate 200 particles on a unit circle and sphere. Initialized with random velocities, these particles evolve according to the two distinct dynamics. The results show that Krause Attention promotes stable multi-cluster synchronization, while standard attention tends to drive particles toward a single consensus, ultimately leading to global synchronization.
+The animations above demonstrate the difference in two attention dynamics. We simulate 200 particle (tokens) on a unit circle and sphere. Initialized with random velocities, these particles evolve according to distinct dynamics. As observed, while Krause Attention promotes stable multi-cluster synchronization, standard attention drives particles toward a single consensus, ultimately leading to global synchronization.
 
 ## Installation
 
